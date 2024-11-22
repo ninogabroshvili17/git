@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    gap: 40px;
+    
+}
+li{
+    font-size: 20px;
+
+}
